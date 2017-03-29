@@ -96,6 +96,7 @@
 				TargetAttributes = {
 					C983ED4C1DAE2B8700AC2E94 = {
 						CreatedOnToolsVersion = 8.0;
+						DevelopmentTeam = R6USV66H63;
 						ProvisioningStyle = Automatic;
 					};
 				};
@@ -260,7 +261,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				DEVELOPMENT_TEAM = "";
+				DEVELOPMENT_TEAM = R6USV66H63;
 				INFOPLIST_FILE = iOS10DynamicTypeSample/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.shingohry.iOS10DynamicTypeSample;
@@ -273,7 +274,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				DEVELOPMENT_TEAM = "";
+				DEVELOPMENT_TEAM = R6USV66H63;
 				INFOPLIST_FILE = iOS10DynamicTypeSample/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.shingohry.iOS10DynamicTypeSample;
